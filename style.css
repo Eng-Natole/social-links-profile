@@ -1,0 +1,68 @@
+@font-face {
+  font-family: Inter;
+  src: url(./assets/fonts/static/Inter-Regular.ttf);
+}
+h3,
+p {
+  font-family: Inter;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 8%);
+}
+
+.container {
+  background-color: hsl(0, 0%, 12%);
+  width: 300px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 10px;
+}
+p {
+  font-size: 14px;
+}
+.imgs img {
+  max-width: 60px;
+  border-radius: 50%;
+}
+.headings h3 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+.headings .yo {
+  color: hsl(75, 94%, 57%);
+  margin-bottom: 25px;
+  font-weight: 600;
+  font-size: 11px;
+}
+.headings .yu {
+  margin-bottom: 15px;
+  font-size: 10px;
+}
+
+.par p {
+  padding: 12px 60px;
+  background-color: hsl(0, 0%, 20%);
+  margin-bottom: 10px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 11px;
+}
+.par p:active {
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 8%);
+}
