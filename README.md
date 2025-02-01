@@ -21,7 +21,7 @@ social-links-profile
 ![social-links-profile](./assets/images/screenshot.jpg)
 
 🔗 Links
-Solution URL: [Add your solution URL here]
+Solution URL:https://github.com/Eng-Natole/social-links-profile
 Live Site URL: [Add your live site URL here]
 
 🛠️ My Process
