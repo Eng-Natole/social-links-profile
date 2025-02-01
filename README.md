@@ -22,7 +22,7 @@ social-links-profile
 
 🔗 Links
 Solution URL:https://github.com/Eng-Natole/social-links-profile
-Live Site URL: [Add your live site URL here]
+Live Site URL:https://eng-natole.github.io/social-links-profile/
 
 🛠️ My Process
 
